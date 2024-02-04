@@ -1,0 +1,11 @@
+# Variable	Description
+ticket	ticket type
+cost	paid fee in euros
+month	calendar month during which the trip was made
+location_from	start location of the trip
+location_to	end location of the trip
+duration	travel time in seconds
+distance	travel distance in meters
+assistance	status of electric assistance (0 = disabled, 1 = enabled)
+energy_used	energy consumed by the bike in watt-hours
+energy_collected	energy collected by the bike in watt-hours
